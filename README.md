@@ -25,7 +25,6 @@ A simple RESTful API for managing a collection of books, built with [Golang](htt
 ## 📦 Installation
 
 ```bash
-git clone [https://github.com/yourusername/go-book-api.git](https://github.com/nitiz143/golang-book-crud.git)
-cd go-book-api
+git clone https://github.com/yourusername/go-book-api.git
 go mod tidy
 go run main.go
